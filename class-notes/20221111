@@ -1,0 +1,21 @@
+
+	Wrapper Classes:
+		int	=	Integer
+		float =	Float
+		
+	Practical uses of STL/Collections
+		Classes to represent DS
+		Algorithms to work up the DS (sort, search)
+		
+		Iterators
+	
+		WAP to accept 10 elements in an array an sort them.
+		
+		ArrayList
+		
+		DS features
+		
+		ForTran
+		COBOL
+		
+		Visual Basic	-	PMT(), Dep()

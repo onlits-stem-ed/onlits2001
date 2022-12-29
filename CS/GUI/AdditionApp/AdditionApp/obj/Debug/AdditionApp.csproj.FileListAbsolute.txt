@@ -1,0 +1,10 @@
+D:\BATCHES\ONLITS2001\CS\GUI\AdditionApp\AdditionApp\bin\Debug\AdditionApp.exe.config
+D:\BATCHES\ONLITS2001\CS\GUI\AdditionApp\AdditionApp\bin\Debug\AdditionApp.exe
+D:\BATCHES\ONLITS2001\CS\GUI\AdditionApp\AdditionApp\bin\Debug\AdditionApp.pdb
+D:\BATCHES\ONLITS2001\CS\GUI\AdditionApp\AdditionApp\obj\Debug\AdditionApp.csprojAssemblyReference.cache
+D:\BATCHES\ONLITS2001\CS\GUI\AdditionApp\AdditionApp\obj\Debug\AdditionApp.AdditionApp.resources
+D:\BATCHES\ONLITS2001\CS\GUI\AdditionApp\AdditionApp\obj\Debug\AdditionApp.Properties.Resources.resources
+D:\BATCHES\ONLITS2001\CS\GUI\AdditionApp\AdditionApp\obj\Debug\AdditionApp.csproj.GenerateResource.cache
+D:\BATCHES\ONLITS2001\CS\GUI\AdditionApp\AdditionApp\obj\Debug\AdditionApp.csproj.CoreCompileInputs.cache
+D:\BATCHES\ONLITS2001\CS\GUI\AdditionApp\AdditionApp\obj\Debug\AdditionApp.exe
+D:\BATCHES\ONLITS2001\CS\GUI\AdditionApp\AdditionApp\obj\Debug\AdditionApp.pdb

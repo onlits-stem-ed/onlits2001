@@ -1,0 +1,36 @@
+
+	Bus Route
+		R005	Motihari-Ranchi
+		1	R005	S05
+		2	R005	S02
+		3	R005	S01
+		4	R005	S04
+		5	R005	S07
+		
+		
+	Loose Coupling:
+	String param = "vector";
+	
+	List lst = ListProvider.getList(param);
+	
+	Collection col = CollectionProvider.getCollection("priority");
+	
+	//lst = new LinkedList();
+	
+	//lst = new Vector();
+	
+	
+	
+	class ListProvider {
+	
+		public static getList(String param) {
+			if(param.equals("array"))
+				return new ArrayList();
+			else if(param.equals("list");
+				return new LinkedList();
+			else if(param.equals("vector");
+				return new Vector();
+		}
+	}
+	
+	Associative Array (Key-value pair)

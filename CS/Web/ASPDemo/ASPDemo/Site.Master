@@ -1,0 +1,40 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Site.master.vb" Inherits="ASPDemo.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            text-align: center;
+            font-weight: bold;
+            font-size: large;
+        }
+        .auto-style2 {
+            font-size: small;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <div class="auto-style1">
+                Some Arithmetic Calculations<br />
+                <asp:Menu ID="Menu1" runat="server" CssClass="auto-style2" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Addition.aspx" Text="Addition" Value="Addition"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Subtraction.aspx" Text="Subtraction" Value="Subtraction"></asp:MenuItem>
+                        <asp:MenuItem Text="Multiplication" Value="Multiplication"></asp:MenuItem>
+                        <asp:MenuItem Text="Factorial" Value="Factorial"></asp:MenuItem>
+                    </Items>
+                </asp:Menu>
+            </div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,26 @@
+
+	C and C++ programmer usaually ignored naming convention
+	
+	But in Java we have observe certain naming conventions
+	
+	Class should be named in PascalCase.
+	Fields and methods should be named in camelCase.
+	Packages and local variables should be named in lowercase.
+	Constants should be named in UPPERCASE
+	
+	
+	public
+	private
+	protected
+	default	-	Is public in its package
+	
+	
+	our class is executed by JVM
+	
+	Algorithms	-	Step
+	
+	System	-	Class
+	out		-	Field of System class
+	println	-	Method of ? class
+	
+	

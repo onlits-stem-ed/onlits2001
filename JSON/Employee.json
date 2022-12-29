@@ -1,0 +1,22 @@
+{
+    "employee1":{
+        "Eid": "E001",
+        "Name": "Akash Kumar",
+        "Gender": "Male",
+        "Contact_Number": "8956234758",
+        "Hobbies": [
+            "Dancing",
+            "Reading Books"
+        ]
+    },
+    "employee2":{
+        "Eid": "E002",
+        "Name": "Mohan Kaushik",
+        "Gender": "Male",
+        "Contact_Number": "6985623587",
+        "Hobbies": [
+            "Bird Watching",
+            "Singing"
+        ]
+    }
+}

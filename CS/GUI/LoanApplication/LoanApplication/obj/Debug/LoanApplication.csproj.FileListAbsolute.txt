@@ -1,0 +1,14 @@
+D:\BATCHES\ONLITS2001\CS\GUI\LoanApplication\LoanApplication\bin\Debug\LoanApplication.exe.config
+D:\BATCHES\ONLITS2001\CS\GUI\LoanApplication\LoanApplication\bin\Debug\LoanApplication.exe
+D:\BATCHES\ONLITS2001\CS\GUI\LoanApplication\LoanApplication\bin\Debug\LoanApplication.pdb
+D:\BATCHES\ONLITS2001\CS\GUI\LoanApplication\LoanApplication\obj\Debug\LoanApplication.csprojAssemblyReference.cache
+D:\BATCHES\ONLITS2001\CS\GUI\LoanApplication\LoanApplication\obj\Debug\LoanApplication.FrmLoanProposal.resources
+D:\BATCHES\ONLITS2001\CS\GUI\LoanApplication\LoanApplication\obj\Debug\LoanApplication.FrmMDIParent.resources
+D:\BATCHES\ONLITS2001\CS\GUI\LoanApplication\LoanApplication\obj\Debug\LoanApplication.Properties.Resources.resources
+D:\BATCHES\ONLITS2001\CS\GUI\LoanApplication\LoanApplication\obj\Debug\LoanApplication.csproj.GenerateResource.cache
+D:\BATCHES\ONLITS2001\CS\GUI\LoanApplication\LoanApplication\obj\Debug\LoanApplication.csproj.CoreCompileInputs.cache
+D:\BATCHES\ONLITS2001\CS\GUI\LoanApplication\LoanApplication\obj\Debug\LoanApplication.exe
+D:\BATCHES\ONLITS2001\CS\GUI\LoanApplication\LoanApplication\obj\Debug\LoanApplication.pdb
+D:\BATCHES\ONLITS2001\CS\GUI\LoanApplication\LoanApplication\obj\Debug\LoanApplication.FrmProspect.resources
+D:\BATCHES\ONLITS2001\CS\GUI\LoanApplication\LoanApplication\obj\Debug\LoanApplication.EditProspect.resources
+D:\BATCHES\ONLITS2001\CS\GUI\LoanApplication\LoanApplication\obj\Debug\LoanApplication.FrmProspectList.resources

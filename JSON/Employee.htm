@@ -1,0 +1,20 @@
+
+<body>
+    <table>
+        <tr>
+            <th>Employee Id</th>
+            <th>Employee Name</th>
+        </tr>
+        <tr>
+            <td id="eid"></td>
+            <td id="ename"></td>
+        </tr>
+    </table>
+</body>
+<script>
+    console.log("Hello");
+    let emp = JSON.parse('{"Eid": "E001","Name": "Akash Kumar","Gender": "Male","Contact_Number": "8956234758", "Hobbies": ["Dancing","Reading Books"]}');
+    // console.log(emp);
+    document.getElementById('eid').innerHTML = emp.Eid;
+    document.getElementById('ename').innerHTML = emp.Name;
+</script>

@@ -1,0 +1,36 @@
+
+	- JCF is a implementation of generic programming in Java.
+	
+	
+	class Student {
+		int roll_number;
+		String name;
+	}
+	
+	LinkedList<Student> student = new LinkedList<Student>();
+	
+	
+	
+	NewForm<Student> student = new NewForm<Student>();
+	NewForm<Employee> student = new NewForm<Employee>();
+	
+	
+	Find some situations where generic classes may be implemented.
+	
+	
+	class Student<T> {
+		T roll_number;
+		T name;
+	}
+	
+	Containers (class)	-	contains data
+	Algorithms (function)
+	Iterators (Class)
+	
+	new, delete
+	malloc, free
+	
+	int arr[20];
+	
+	arr[0]	=	base_address
+	arr[1]	=	base_address + 1 * 4

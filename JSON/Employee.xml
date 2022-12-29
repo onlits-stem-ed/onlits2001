@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Employees>
+    <Employee>
+        <Eid>"E001"</Eid>
+        <Name>"Akash Kumar"</Name>
+        <Gender>"Male"</Gender>
+        <Contact_Number>"8956234758"</Contact_Number>
+        <Hobbies>"Dancing", "Reading Books"</Hobbies>
+    </Employee>
+    <Employee>
+        <Eid>"E002"</Eid>
+        <Name>"Mohan Kaushik"</Name>
+        <Gender>"Male"</Gender>
+        <Contact_Number>"6985623587"</Contact_Number>
+        <Hobbies>"Bird Watching", "Singing"</Hobbies>
+    </Employee>
+</Employees>

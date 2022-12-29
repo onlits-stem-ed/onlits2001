@@ -1,0 +1,50 @@
+
+	Java Collections Framework and Standard Template Library
+	
+	Lead management system
+	
+	Queue DS
+	
+	Recursion - Stack
+	
+	Vector class in C++ and Java
+	
+	Thread-safe
+	
+	ArrayList
+	
+	Templates in C++
+	Generics in Java
+	
+	
+	array operations - integer array
+	
+	Re-create array operations program using array of students.
+	
+	struct student {
+		int roll_no;
+		char name[50];
+	}
+	
+	int main()
+	{
+		struct student students[100];
+	}
+	
+	
+	int main()
+	{
+		int arr[100];
+	}
+	
+	Tally Software
+		Ledger Accounts are grouped.
+			28 pre-defined groups	-	15 primary 13 subgroups
+		student
+	
+	
+	p = malloc(10);
+	relloc(p, 15);
+	
+	
+	

@@ -1,0 +1,2 @@
+This file is created using cat command.
+This file won't terminated until we press ctrl-d.

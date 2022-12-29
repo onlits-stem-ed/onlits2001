@@ -1,0 +1,51 @@
+	Subway Sufers
+	Instagram
+
+	1. Problem Statement: Issues faced by the client. Solution required
+	2. Preliminary Investigation.
+	3. Feasibility Analysis.
+		Economic
+		Technical
+		Legal
+		Shedule
+	4. Requirement Analysis (SRS)
+		
+	
+		Why do you think that from Java Type Modifiers were removed?
+		
+		signed and unsigned (least used)
+		auto, exter, register
+		
+		int a;	(signed)
+		
+		byte	8
+		short	16
+		int		32
+		long	64
+		
+		
+		short int = int		-> 16
+		long				-> 32
+		
+		short				-> 16
+		long int = int		-> 32
+		
+		long long = 64
+		
+		
+		volatile
+		
+		
+		signed char	=	-128 to 127
+		usigned char =  0 to 255
+		
+		
+		
+		byte	-	ASCII	-	8-bit
+		char	-	Unicode	-	16-bit
+		
+		
+		float
+		
+		A4
+		FS	=	Full Scape/ Legal

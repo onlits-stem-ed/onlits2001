@@ -1,0 +1,24 @@
+
+	float is not very accurate
+	
+	Domain	-	Hospital
+	SE	
+	
+	Diagonosis
+	Prognosis
+	
+	A good SRS is a pre-requisite for a good software.
+	
+	Features:
+		Functional	-	Actually product will perform.
+		Non-Functional
+		
+		Patient Reg.
+		Appointment
+		Diag + Prog.
+		Prescription
+		P. Admission
+		Treatment
+		Discharge
+		
+		

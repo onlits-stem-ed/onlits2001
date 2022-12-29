@@ -1,0 +1,1 @@
+mysqldump -uaman -paman ccms > D:\BATCHES\ONLITS2001\MySQL\MySQLBackup\ccms_backup_20201223_1832.sql
