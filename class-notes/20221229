@@ -1,0 +1,33 @@
+
+	FrontEnd	-	UI/UX
+	BackEnd		-	Server (
+	
+	Middleware	- PDO, ADO.Net
+	
+	UI
+	
+	ADO.Net/JDBC/PDO
+	
+	Database
+	
+	if-else
+	?:
+	
+	macro substitution
+	
+	
+	class MethodWithMethodAsParameter {
+		void methodWithMethodAsParameter(String arg) {
+			
+		}
+		
+		public static void main(String[] args) {
+			methodWithMethodAsParameter(System.out.println("Hello!"));
+		}
+	}
+	
+	
+	$day = 1;
+	
+	
+	echo $days;
