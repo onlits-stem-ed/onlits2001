@@ -1,0 +1,18 @@
+
+	vb vs vb.net
+	
+	.net framework (Windows) vs .net core (Cross-platform)
+	
+	LTS - 6.0
+	
+	Why??
+		Windows had a monopoly.
+		
+	How???
+		<asp:textbox name="" runat="server">
+		
+		@if
+		Blade
+		
+		@page
+		Razor
