@@ -1,0 +1,54 @@
+
+	SGML - HTML
+	ECMAScript - JS
+	
+	Test Driven Development
+	
+	First create the test cases
+	
+	
+	struct hotel
+	{
+		char name[50];
+		char address[50];
+		float avg_tariff;
+		int no_of_rooms;
+	};
+	
+	int main(void)
+	{
+		struct hotel hot[5];
+	}
+	
+	void sort_tariff()
+	{
+		
+	}
+	
+	
+	2, 5
+	13, 15
+	
+	printf("%d", 7);
+	
+	
+	int factorial(int n)
+	{
+		iteration;
+	
+	}
+	
+	
+	int factorial(int n)
+	{
+		recursion;
+	
+	}
+	
+	Test Fixture
+	Annotation
+	Assertions
+	
+	Guru99
+	
+	
