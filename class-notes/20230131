@@ -1,0 +1,28 @@
+
+	int main()
+	{
+		printf("Enter age of a person: ");
+		scanf("%d", &a);
+		printf("Enter age of another person: ");
+		scanf("%d", &b);
+		c = add(a, b);
+		printf("The total age is %d.", c);
+	}
+	
+	int add(int a, int b)
+	{
+		return a + b;
+	}
+	
+	
+	assertEquals(sum(7, 5), 12);
+	assertEquals(sum(10, 20), 30);
+	
+	PHP
+	C#
+	
+	JUnit
+	
+	Annotations
+	
+	Cat 3: Takes arguments and returns a value.
