@@ -1,0 +1,93 @@
+
+	Bus Ticketing System
+	
+	
+					station
+	station_id		station_name
+	S01				Muzaffarpur
+	S02				Patna
+	S03				Motihari
+	S04				Hajipur
+	
+	
+	
+					route
+	route_id	route_name
+	R001		Muzaffarpur-Patna
+	R002		Motihari-Muzaffarpur-Patna
+	
+	
+					route_details
+	id		route_id	station_id
+	1		R001		S01
+	2		R001		S04
+	3		R001		S02
+	4		R002		S03
+	5		R002		S01
+	6		R002		S04
+	7		R002		S02
+	
+					bus
+	bus_id		registration_no		route_id
+	BS01		BR06PB4567			R001
+	BS02		BR06PB2346			R002
+	
+	
+	
+	
+	Source:	Muzaffarpur			Destination: Patna
+	Search
+	
+	Bus_id		Station_name
+	
+	$source = "Motihari"
+	$destination = "Patna"
+	
+	SELECT route_id from route WHERE station_id IN [$source, $destination];
+	
+	R001
+	R002
+	R002
+	
+	R002
+	
+	Method
+	
+	station-common.php
+	
+	function fetch_station_name(string $station_id) : string
+	{
+		include 'connect.php';
+		$sql = "SELECT station_name FROM station WHERE station_id='$station_id'";
+		$result = $con->query($sql);	
+		if($result->num_rows > 0)
+		{
+			$station = $result->fetch_assoc();
+			return $station['station_name'];
+		} else return null;
+	}
+	
+	echo fetch_station_name('S01');
+	
+	AssertEquals('Muzaffarpur', fetch_station_name('S01');
+	
+	
+	char username[50];
+	scanf("%s", username);
+	fgets(username, 50, stdin);
+	
+	if(strcmp(username, "admin")==0)
+	{
+		printf("Access granted"):
+	}
+	else
+	{
+		printf("Access denied");
+	}
+	
+	
+	
+	
+	
+	
+	
