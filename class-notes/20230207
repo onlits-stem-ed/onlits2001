@@ -1,0 +1,54 @@
+
+	class AddTwoValues
+	{
+		private static int _a;
+		private static int _b;
+		
+		
+		static int add(int a, int b)
+		{
+			_a = a;
+			_b = b;
+			return a + b;
+		}
+		
+		static void Main()
+		{
+			AddTwoValues.add(10, 20)
+		}
+	}
+	
+	
+	numbers
+	
+	d1 + d2
+	n1 + n1
+	
+	a = int(input(""))
+	
+	WAP using List/ArrayList to rotate the elements clock-wise for
+	given number of times.
+	
+	1	2	3	4	5
+	
+	4	5	1	2	3
+	
+	
+	for(i=0; i<count(arr)-1; i++)
+	{
+		for(j=i+1; J<count(arr); j++)
+		{
+			if(arr[i] == arr[j]
+			{
+				arr_selected[k] = arr[i];
+				k++;
+				break;
+			}
+		}
+	}
+	return arr_selected;
+	
+	Method overloading
+	
+	dll hell
+	

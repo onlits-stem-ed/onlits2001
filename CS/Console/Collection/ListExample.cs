@@ -3,12 +3,12 @@ class ListExample
 {
     static void Main()
     {
-        List<string> salmons = new List<string>();
+        var salmons = new List<string>();
         salmons.Add("chinook");
         salmons.Add("coho");
         salmons.Add("pink");
         salmons.Add("sockeye");
-        foreach(string salmon in salmons)
+        foreach(var salmon in salmons)
         {
             System.Console.WriteLine(salmon);
         }
