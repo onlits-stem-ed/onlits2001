@@ -1,0 +1,24 @@
+
+	object vs instance
+	
+	object = instance
+	
+	classes and object
+	
+	struct
+	interface
+	
+	Connection con = DriverManager.getConnection("");
+	
+	class Abc
+	{
+	
+	}
+	
+	class AbcTest {
+		public static void main(String[] args) {
+			Abc abc = new Abc();
+		
+		}
+	
+	}
