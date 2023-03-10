@@ -1,0 +1,20 @@
+
+	HelloWorld
+	
+	A servlet class does not have a main.
+	
+	Applet	-	client side
+		init()
+	Servlet	-	server side
+		init()
+		
+		
+	
+	init()
+	service()
+	destroy()
+	
+	doGet()
+	doPost()
+	
+	
