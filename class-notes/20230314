@@ -1,0 +1,12 @@
+
+	[web-app-name]
+		[src]
+			*.java
+			*.jar (needed while compilation)
+		[WEB-INF]
+			[classes]
+				*.classes
+		web.xml	(Deployment Descriptor)
+		
+		
+	

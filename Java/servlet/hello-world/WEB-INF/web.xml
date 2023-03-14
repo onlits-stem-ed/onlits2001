@@ -1,0 +1,10 @@
+<web-app>
+    <servlet>
+        <servlet-name>helloworld</servlet-name>
+        <servlet-class>local.onlits2001.servlet.HelloWorld</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>helloworld</servlet-name>
+        <url-pattern>/helloworld</url-pattern>
+    </servlet-mapping>
+</web-app>
