@@ -1,0 +1,21 @@
+
+	[hello-world]
+		webpages
+		[src]	-	optional
+			*.java
+			*.jar (for compiling purpose)
+		[WEB-INF]
+			[classes]
+				[package]
+					*.class
+			
+			web.xml (Deployment Descriptor)
+			
+	Software Engineering	-	Developing Code
+								Deployment
+								
+		In-memory data store (JSON/XML)
+		
+		Notes Manager
+		ToDo List
+		Blog

@@ -1,0 +1,10 @@
+<web-app>
+    <servlet>
+        <servlet-name>SelectData</servlet-name>
+        <servlet-class>local.onlits2001.servlet.SelectData</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CrudOperations</servlet-name>
+        <url-pattern>/selectdata</url-pattern>
+    </servlet-mapping>
+</web-app>
