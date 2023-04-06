@@ -7,7 +7,11 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="/hello-world-2001/helloworld">Click here</a> to test helloworld servlet.
-    <a href="test.jsp">Click here</a> to test helloworld jsp.
+    <%out.print("Hello<br>");%>
+    <%
+        for(int i=0; i<10; i++) {
+            out.print("Hello<br>");
+    }
+    %>
 </body>
 </html>
