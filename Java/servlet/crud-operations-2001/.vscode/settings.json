@@ -1,6 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "Java2/source"
+        "src"
     ],
     "java.project.referencedLibraries": [
         "lib/**/*.jar",

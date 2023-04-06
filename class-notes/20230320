@@ -1,0 +1,27 @@
+
+	Maven
+	Gradle
+	
+	A servlet class with either implement the "Servlet" interface or
+	it may inherit one of the two servlet classes namely GenericServlet
+	or HttpServlet.
+	
+	init()
+	service()	-	
+	
+	
+	Program to mimic EVM scenario.
+	
+	1. Module to activate/deactivate EVM	-	server
+	2. EVM	-	client
+	
+	infix to postfix
+	
+	Covert infix to postfix.
+	
+		input: a mathematical expression in infix
+		output: the mathematical expression in postfix
+		
+		A + B	=> AB+
+		
+		(A + B) + C

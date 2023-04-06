@@ -1,0 +1,25 @@
+
+	Service Container passes the required instance/object.
+	
+	Ask right question!
+	
+	Write a function to return factors of a number.
+	
+	int[]	-	fixed, terminator/size indicator
+	
+	ArrayList<> - flexible
+	Vector<>	-	Thread-safe
+	
+	
+	10 = 1, 2, 5, 10
+	20 = 1, 2, 4, 5, 10, 20
+	
+	input
+	output in the form of return statements
+	
+	
+	TDD: Test Driven Development
+		
+	- Is there a way to test it?
+	
+	

@@ -1,0 +1,35 @@
+
+	class A {
+	
+		class B {
+		
+		}
+	}
+	
+	class C extends A
+	{
+	
+	
+	}
+	
+	Machine Testing
+	
+	
+	interface A {
+		public static void methodA()
+		{
+		
+		}
+		
+		public static void main(String[] args)
+		{
+			methodA();
+		}
+	}
+	
+	Class A	-	fun()
+	Class B	-	fun()
+	
+	Class C -> A, B	- fun()
+	
+	
