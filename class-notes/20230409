@@ -1,0 +1,70 @@
+
+	Compiler	-	Language Translator
+	
+	Data Science
+	Cloud Computers
+	
+	System Software
+		Compiler
+		Assembler
+		Linker
+		Interpreter
+		Preprocessor
+		
+		
+		class Student
+		{
+			$this->name = null;
+
+			__contruct(string $name)
+			{
+				$this->name = $name;
+			}
+			
+			setName(string $name)
+			{
+				$name = $name;
+			}
+			
+			getName()
+			{
+				return $this->name;
+			}
+		}
+		
+		$student = new Student("Santosh");
+		
+		$student->setName("Raju");
+		
+		echo $student->getName();
+		
+		a)	Santosh
+		b)	Raju
+		c)	Error
+		d)	NOTA
+		
+		Difference between duties and taxes.
+		
+		PHP Developer
+		
+		
+		
+		
+		
+		Re. 1 on a transfer Rs. 500.
+		Re. 1 on a transfer Rs. 5000.
+		
+		COM
+		DCOM
+		
+		=pi()
+		=sum(10, 20)
+		
+		
+		if(/***/) /{
+			!######!
+		/}
+		
+		
+		
+		
