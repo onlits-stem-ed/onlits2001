@@ -11,14 +11,15 @@ import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 
 public class Create extends HttpServlet {
+
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException {
         PrintWriter out = response.getWriter();
         try {
-            Connection connection = DriverManager.getConnection("jdbc:mariadb://localhost/crud_test_2201", "onlits2001", "onlits2001");
+            Connection connection = (Connection) getServletContext().getAttribute("connection");
             Statement statement = connection.createStatement();
             String sql = "INSERT INTO student(name) VALUES('" + request.getParameter("name") + "')";
             statement.executeUpdate(sql);
-            out.println("Data inserted successfully!");
+            out.println("<p>Data inserted successfully!</p>");
         } catch(SQLException ex) {
             System.out.println(ex.toString());
         }

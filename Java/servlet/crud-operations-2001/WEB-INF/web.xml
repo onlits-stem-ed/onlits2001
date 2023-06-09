@@ -31,4 +31,19 @@
         <servlet-name>Delete</servlet-name>
         <url-pattern>/delete</url-pattern>
     </servlet-mapping>
+    <context-param>
+        <param-name>url</param-name>
+        <param-value>jdbc:mariadb://localhost/crud_test_2201</param-value>
+    </context-param>
+    <context-param>
+        <param-name>username</param-name>
+        <param-value>onlits2001</param-value>
+    </context-param>
+    <context-param>
+        <param-name>password</param-name>
+        <param-value>onlits2001</param-value>
+    </context-param>
+    <listener>
+        <listener-class>local.onlits2001.crud.CrudContextListener</listener-class>
+    </listener>
 </web-app>

@@ -1,0 +1,39 @@
+
+	class is mutable
+	
+	record is immutable
+	
+	Java 14		March 2020
+	C# 9		November 2020
+	
+	JVM
+	
+	60
+	
+	India Gate White Sella (tibar)	-	62
+	
+	500
+	
+	applet
+	frame
+	servlet
+	thread
+	
+	
+	public class MyApplet extends Applet {
+	
+	}
+	
+	public class MyFrame extends Frame {
+	
+	}
+	
+	public class MyServlet extends HttpServlet {
+	
+	}
+	
+	public class MyThread extends Thread {
+	
+	}
+	
+	
