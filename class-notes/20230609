@@ -1,0 +1,91 @@
+
+	char		-	1 byte
+	short		-	2 bytes
+	int			-	4 bytes
+	long		-	4 bytes
+	long long	-	8 bytes
+	float		-	4 bytes
+	double		-	8 bytes
+	long double	-	10 bytes*
+	
+	ASCII: 8-bit
+	
+	A	-	
+	
+	letters = ['c', 'g', 'l']
+	target	= 'm'
+	
+	continue
+	break
+	
+	A = 65	- Z = 90
+	a = 97	- z = 122
+	
+	char nextG = '\0';
+	for(int i=0; i<letter.size(); i++)
+	{
+		if(letters[i] <= target)
+			continue;
+	
+		nextG = letter[i];
+		break;
+	}
+	
+	if(nextG=='\0')
+		nextG = letter[0];
+		
+	
+	l1 = [2, 3, 5]		532
+	l2 = [9, 3]			 39
+						----
+						571
+						----
+	
+	l3 = [1, 7, 5]		571
+	
+	
+	char ch = 'A';
+	
+	65	01000001
+	
+	
+	External/Application	-	View
+	Conceptual	-				Organisation
+	Internal/Physical	-		Actual
+	
+	
+	
+	GitHub Pilot
+	
+	1. MSB
+		-10 = 10001010			10000000, 00000000
+	2. 2's complement
+		-10	= 11110110
+	3. Excess n code
+		
+		
+	00001010	->	11110101	->	11110110
+	
+	
+	c = a + b;	(3)11 + (2)10	->		(5)101
+	
+	64-bit
+	32-bit
+	16-bit
+	8-bit
+	
+	0x1254F
+	00000000 00000001 00100101 01001111
+	
+	4&2
+	
+	00000100
+	00000010
+	
+	
+	c = a / b;	O(1)
+	
+	10 + 2 + 3
+	
+	
+	
