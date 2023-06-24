@@ -1,0 +1,48 @@
+
+	short int	-	16-bit
+	int			-	32-bit
+	long int	-	32-bit
+	long long	-	64-bit
+	
+	parity bit - 
+	
+	And	(1 -> 0)		Or (0 -> 1)			Xor (invert bits)
+	a	b	c			a	b	c			a	b	c
+	0	0	0			0	0	0			0	0	0
+	0	1	0			0	1	1			0	1	1
+	1	0	0			1	0	1			1	0	1
+	1	1	1			1	1	1			1	1	0
+	
+	127	- 01111111
+	128	- 10000000
+	
+	1000 (8) 0000 (0)
+	
+	mask =	1
+	
+	10101010
+	
+	
+	http
+	
+	https
+	
+	01010101
+	
+	3	-	11
+	4	-	100
+	10	-	1010
+	9	-	MSB 1001 LSB
+	
+	
+	128	64	32	16	8	4	2	1
+	
+	if(num % 2 == 0)
+		printf("Even");
+	else
+		printf("Odd");
+		
+		
+	
+	
+	

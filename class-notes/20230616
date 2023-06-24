@@ -1,0 +1,62 @@
+
+	Clear a bit - make 0	-	&
+	Set a bit - make 1 -	|
+	Invert a bit - 			^
+	
+	Test & Print a bit	-	&
+	
+	
+	In c & c++ false = 0 and true is a non-zero
+	
+	while(10)
+	
+	Raw binary	-	10	=	1010
+	
+	Computer codes:
+		ASCII	-	65
+		E-BCD		-	49
+		EBCDIC	-	193
+		Unicode
+		
+		A = 65
+		
+		1111
+		
+		class Solution {
+public:
+    int[] twoSum(int[] nums, int target) {
+        int[] result = new int[2];
+        for(int i=0; i<nums.length - 1; i++)
+        {
+            for(int j = i+1; j<nums.length; j++)
+            {
+                if((nums[i] + nums[j]) == target)
+                {
+                    result[0] = i;
+                    result[1].= j;
+                    return result;
+                }
+            }
+        }
+        return result;
+    }
+};
+
+
+	KISS	-	Keep it simple stupid
+	
+	
+	Array vs LinkedList
+	
+	-> Less space
+	-> Simple
+	-> Built-in
+	
+	0x16	+	0 * 4	=	0x16
+	0x16	+	1 * 4	=	0x20
+	0x16	=	2 * 4	=	0x24
+	
+	
+	
+	
+	
