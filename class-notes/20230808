@@ -1,0 +1,41 @@
+
+ Connection con = DriverManager.getConnection(url, user, pass);
+ 
+ Scanner sc = new Scanner(new InputStream());
+ 
+ int a = sc.nextInt();		// = scanf();
+ 
+ 
+ InputStream
+ 
+ Scanner sc = new Scanner(System.in);
+ 
+ 
+ Multiple service for messaging:
+ 	- Email
+ 	- SMS
+ 	- Facebook Message
+ 	- ? (WhatsApp)
+ 	- ? 
+ 	
+ Interface
+ 
+ MessageService msv = Service.getService("whatsapp");
+ 
+ class MessageServiceTest {
+ 
+ 	private MessageService msv;
+ 	public MessageServiceTest(MessageService msv) {
+ 		this.msv = msv;
+ 	}
+ }
+ 
+ Shallow vs Deep Classes
+ 
+ Merrycakes
+ Goodday Cakes
+ 
+ Rusk
+ Toast
+ 
+ 

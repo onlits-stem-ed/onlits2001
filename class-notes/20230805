@@ -1,0 +1,78 @@
+Robert C. Martin
+Martin Fowler
+Eric Gamma
+Ken Beck
+
+
+	Connection connection = DriverManager.getConnection(url);
+	
+	Statement statement = connection.createStatement();
+	
+	Oracle
+	SqlServer
+	MySql
+	Mariadb
+	Postgres
+	Sqlite
+	
+	public class MariadbConnection implements Connection {
+	
+		@override
+		public Statement createStatement() {
+		
+		}
+	}
+	
+	
+	public interface Connection extends AutoCloseable {
+	
+	}
+	
+
+	C#
+	SqlConnection connection = new SqlConnection();
+	
+	
+	SOLID
+	
+	Service
+	Consumer (Dependent)
+	
+	interface Address {
+	
+	}
+	
+	class MyAddress implements Address {
+	
+	}
+	
+	class Student {
+	
+		private Address address;
+		
+		public Student(Address address) {
+			this.address = address;
+		}
+	}
+	
+	
+	class TestStudent {
+		private Student student;
+		
+		public TestStudent(Student student) {
+			
+		}
+	}
+	
+	B22
+	E27
+	
+	System.out.println("Hello!");
+	
+	DbContext, Request
+	
+	
+	
+	
+	
+	

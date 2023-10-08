@@ -1,0 +1,93 @@
+
+ - Database Configuration
+ 
+	EF Core Tools
+	PostgreSql
+	
+	Levels of instructions
+		Low level
+		High level
+		
+		printf()
+		
+		+
+		
+		Addition of two integers
+		
+	Gold is Old
+	
+	You are playing a game where you have an initial number of
+	experience points. There are a total of n quests available to
+	complete.
+
+	• Each quest requires a minimum amount of experience points to
+	start.
+
+	• Upon completing a quest, you gain a certain amount of experience
+	points.
+
+	Consider a case where you have x experience points, you can
+	complete any quest that requires <=x experience points to start 
+	and hence gain more experience points as a result of completing that
+	quest.
+
+	However, you only have enough time to complete most k quests. 
+	Your goal is to determine the maximum number of experience points
+	you can accumulate.
+
+	Example 1:
+
+	Input:
+	n=5
+
+	intial_exp 10
+
+	exp_req= [3,2,4,1,2]
+
+	exp gain [5,3,6,2,4]
+
+	k = 3
+
+	Output:
+
+	25
+	
+	
+	You are given a binary array arr of size N consists of 0 and 1. 
+	It arr[i]=0 then there is a white stone present at the index i and
+	 if arr[i]=1 then there is a black stone preset at the index i
+
+	You have infinite no of boxes of size K and you need to separate
+	 white and black stones by putting them into different boxes. Find
+	 the minimum no of box require to separate white and black stones
+	 by putting them into different boxes.
+
+Note: You cannot put more than K stones in a single box.
+
+Example 1:
+
+Input:
+
+N = 4, K = 2 arr[] = {1,0,1,0)
+
+Output: 2
+
+Sclave Solution E
+
+int separatestows I code here
+
+Explanation: We can put first and third black stones into 1st box and second and fourth white stones into 2nd box.
+
+Example 1:
+
+Input:
+
+N=5, K = 2
+
+arr[] (1,1,1,1,1)
+
+Output: 3	
+
+
+
+

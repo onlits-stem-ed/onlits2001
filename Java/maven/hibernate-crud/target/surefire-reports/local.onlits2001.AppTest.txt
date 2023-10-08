@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: local.onlits2001.AppTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.86 s <<< FAILURE! - in local.onlits2001.AppTest
+shouldReturnDataCreated(local.onlits2001.AppTest)  Time elapsed: 2.712 s  <<< ERROR!
+org.hibernate.UnknownEntityTypeException: Unable to locate persister: local.onlits2001.Student
+	at local.onlits2001.AppTest.shouldReturnDataCreated(AppTest.java:23)
+

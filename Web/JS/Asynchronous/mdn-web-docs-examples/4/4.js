@@ -3,7 +3,7 @@ const log = document.querySelector(".event-log");
 document.querySelector("#xhr").addEventListener("click", () => {
     log.textContent = '';
 
-    const xhr = new XMLHttpRequest()
+    const xhr = new XMLHttpRequest();
 
     xhr.addEventListener("loadend", () => {
         log.textContent = `${log.textContent}Finished with status: ${xhr.status}`;
