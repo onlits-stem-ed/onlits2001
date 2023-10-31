@@ -1,0 +1,37 @@
+
+	Files were used to store data.
+	
+	History
+	
+	Schema - Structure
+	
+	Models
+		-	E-R Model	(Conceptual)
+		-	Relational Model (Representational)
+		
+	The Hidden Figures
+		Fortran
+		
+		
+	Entities:
+		1. Tournament
+		2. Tournament Organiser
+		3. Player/Participant
+		4. Pair
+		5. Result
+		6. Round
+		
+	Registered_Contact_Number
+	
+	Invoice_No
+	Date
+	Particulars
+	Quantity
+	Rate
+	Amount
+	Total_Amount
+	CGST@9%	-
+	SGST@9%	-
+	CGST@14% -
+	CGST@14% -
+	
