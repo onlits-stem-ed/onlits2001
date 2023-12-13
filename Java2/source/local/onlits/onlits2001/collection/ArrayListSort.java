@@ -2,13 +2,10 @@ package local.onlits.onlits2001.collection;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Vector;
 
 public class ArrayListSort {
     public static void main(String[] args) {
-        LinkedList<Integer> arr = new Vector<Integer>();
+        var arr = new ArrayList<Integer>();
         arr.add(67);
         arr.add(4);
         arr.add(32);
