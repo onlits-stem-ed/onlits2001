@@ -1,0 +1,40 @@
+
+	Name Rating
+	
+	index
+	
+	class Player {
+		int id;
+		String name;
+		int rating;
+		
+		Player(int id, String name, int rating) {
+			this.id = id;
+			this.name = name;
+			this.rating = rating;
+		}
+	}
+	
+	class PlayerList {
+		PlayerList() {
+			Player[] players = {
+				new player(12345, "Gaurav Kumar", 1034),
+				new player(),
+				new player(),
+				new player(),
+			}
+		}
+		
+		void sortList() {
+			Player[] sortedPlayers = new Players[];
+			
+		}
+		
+		public static void main(String[] args) {
+			new PlayerList();
+		}
+	}
+	
+	
+	
+	
