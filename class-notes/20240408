@@ -1,0 +1,36 @@
+
+
+ Web applications are also console applications
+ 
+ Dependency Injection
+ 
+ Java + Oracle (JDBC-ODBC bridge)
+ Java + MySQL (Native drivers)
+ 
+ Readymade
+ 
+ Patterns
+ 	Factory: Some other class will object for us
+ 	
+ 	70,00,000
+ 	30,00,000
+ 	
+ 	5,00,000
+ 
+ 	UDISE
+ 	
+ 	WebApplication class configures HTTP pipeline and routes
+ 	
+ 	DI Service Container
+ 	
+ 	int main(int argc, char *argv[])
+ 	{
+ 	
+ 	}
+ 	
+ 	
+ 	dotnet run extra
+ 	
+ 	mysql -uroot -p
+ 	
+ 	WebApplication app = new WebApplication();

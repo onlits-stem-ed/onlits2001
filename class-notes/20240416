@@ -1,0 +1,8 @@
+
+	C	-	Create	-	POST	-	Create a new resource	1
+	R	-	Read	-	GET		-	Retrieve resource(s)	2
+	U	-	Update	-	PUT		-	Update existing resource(s) 1
+	D	-	Delete	-	DELETE	-	Delete existing resource(s) 1
+	
+	%d	-	decimal integer
+	%i	-	decimal, octal, hexadecimal integer

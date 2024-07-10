@@ -1,0 +1,41 @@
+
+	class A {
+	
+		int getSomething() {
+		
+		}
+	}
+	
+	class B {
+		public static void main(String[] args) {
+			new A()
+				.getSomething();
+		}
+	}
+	
+	$this->
+	
+	print()
+	
+	<input type="button" value="Test">
+	<button type="button">Test</button>
+	
+	Bank Account
+		Account No
+		Bank
+		Branch
+		IFSC
+		Swift
+	
+	Creditor/debtor
+		GSTIN
+		PAN
+		Credit limit
+		Credit period
+		Contact
+		
+	Learner
+		Academic
+		Experience
+	
+	

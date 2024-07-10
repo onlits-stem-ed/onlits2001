@@ -1,0 +1,36 @@
+	17532/S/2002
+	
+	2033
+	
+	ML0520029817532	-	200 + 200 + 50 + 150
+	
+	Free
+	Silver
+	Gold
+	Platinum
+	
+	javadoc
+	
+	
+	Credit line (limit)
+	Accounting
+	
+	Accounting Software as a Service
+	
+	Inventory
+	
+	Payroll
+	
+	SMS - Double Entry Accounting System
+	
+	
+	Adm No: 1256
+	Head: Tuition Fees
+	Amount: 2000
+	Mode: Bank
+	
+	Bank			Dr.		2000
+	To Tuition Fees					2000
+	
+	Dr. Bank				2000
+	Cr. Tuition Fees					2000

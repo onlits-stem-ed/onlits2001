@@ -1,0 +1,43 @@
+polymorphism, class time , run time polymorphism , overloading, overriding, abstract class, abstract method , how an abstract class different from interface
+
+
+Exception Handling:
+	Checked		-	Can be caught by compiler
+	Unchecked	-	Cannot be caught by compiler
+	
+Exception: An unusual situation that may arise during program execution.
+
+	try
+	catch
+	finally
+	throws
+	throw
+	
+	throw new Arithmetic();
+	
+	
+	
+	class MyClass {
+	
+	}
+	
+	class MyException implement Throwable {		//custom exception
+	
+	}
+	
+	
+	
+	class MariadbException implement Throwable {
+	
+	}
+	
+	
+	class MariadbConnection {
+	
+	}
+	
+	Thread - A light-weight process is known as a thread.
+	
+	process
+	
+	

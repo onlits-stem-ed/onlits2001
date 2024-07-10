@@ -1,0 +1,27 @@
+
+	.Net/Java based frameworks	-	Compilation + Interpretation
+	
+	php/python/js based frameworks - Interpretation
+	
+	Why there is no multiple inheritance in Java?
+	
+	SPA	-	Single Page Application
+	
+	1. Implementing a Registration and Login System within 
+	Laravel without page refresh. The system entities are 
+	Admin and Customer.
+	
+	2. Create 2 million Posts  of 3 diffrent Customer with
+	the help of seeder. Post fields are title, description, 
+	publication date.
+	
+	4. Display all 2 million users posts in admin panel. 
+	Post attributes including title, description, publication 
+	date, customer name, and role in a table format with use 
+	of Datatables.
+	
+	Note: All outlined tasks shall be executed exclusively 
+	through migrations and relationship, validation. No raw 
+	query or join used in the system.
+	
+	

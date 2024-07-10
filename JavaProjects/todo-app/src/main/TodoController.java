@@ -2,7 +2,7 @@ package local.onlits2001.todoapp;
 
 import jakarta.http.servlet;
 
-package TodoController extends HttpServlet {
+class TodoController extends HttpServlet {
 
     private Todo todo;
 

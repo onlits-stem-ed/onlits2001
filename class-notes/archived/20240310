@@ -1,0 +1,13 @@
+
+	DbContext context = ContextFactory.getContext();
+	
+	DAO
+	RDO
+	ADO
+	ADO.Net
+	
+	SqlConnection con = new SqlConnection("");
+	
+	defer object instantiation
+	
+	new

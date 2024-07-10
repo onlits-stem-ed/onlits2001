@@ -1,0 +1,12 @@
+ Library & Information Science
+ 
+ Common
+ -	Project Initiation
+ -	Database configuration
+ -	Model + Controller (exception: no calls to views)
+ 
+ 1. Start			int main(void) {			?
+ 2. Read a, b		scanf("%d%d", &a, &b);		a = input(...), b = input(...)
+ 3. c = a + b		c = a + b;					c = a + b
+ 4. Print c			printf("...%d", c);			print(f"... {c}")
+ 5. Stop			}							?

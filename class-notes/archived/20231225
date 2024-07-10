@@ -1,0 +1,23 @@
+
+	Persistent	-	Tables, Views
+	Transient	-	Queries Result
+	
+	AI -
+	
+	N-Queen 
+	
+	Manage Credit Line
+		- One time
+		- EMI
+		
+		10999
+		
+		510
+		
+		20000
+		
+		Cart
+		Payment Gateway
+		
+		
+		printf("Enter 10 integers below:\n");

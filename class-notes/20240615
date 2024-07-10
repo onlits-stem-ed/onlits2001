@@ -1,0 +1,70 @@
+polymorphism, class time , run time polymorphism , overloading, overriding, abstract class, abstract method , how an abstract class different from interface
+
+	Abstract method does not have body
+	Abstract method serves as a guide/interface
+	
+	Abstract class can hold abstract as well as concrete methods.
+	Abstract classes cannot be instantiated.
+	Abstract classes are meant to be super class.
+
+	Int Runnable Interface run() is abstract
+	The class that implements Runnable has to compulsoryly override
+	run().
+	
+	In interface methods are abstract and public by default
+	
+	
+	
+	class A
+	{
+		someMethod() {
+			new B.aMethod();
+			new C.anotherMethod();
+		}
+	}
+	
+	interface B {
+		abstract void aMethod();
+	}
+	
+	interface C {
+		abstract void anotherMethod();
+	}
+	
+	class Client implement B, C {
+		void aMethod() {
+		
+		}
+		
+		void anotherMethod() {
+		
+		}
+	}
+	
+	Can machines think? - 1950
+	
+	class Student {
+		void newStudent() {
+			Connection connection = DriverManager.getConnection();
+			Statement statement = connection.createStatement();
+		}
+	}
+	
+	When to use polymorphism?
+	
+	Openings
+	Middlegame
+	Endgame	- Strategies - Bring
+	
+	SaaS	-	Software as a Service
+	Paas	-	Platform as a Service
+	IaaS	-	Infrastructure as a Service
+	
+	
+	Virtual Directory
+	
+	concurrency, threading aur Synchronization
+	
+	
+	
+	

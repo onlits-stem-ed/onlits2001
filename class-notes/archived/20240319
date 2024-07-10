@@ -1,0 +1,48 @@
+
+	HTMX
+	
+	<php
+		echo "<html>";
+		echo "	<table>";
+		echo "		<tr>";
+		echo "		</tr>;
+		echo "	</table>";
+		echo "</html>";
+	?>
+	
+	
+	<html>
+		<table>
+			<tr>
+				<th>
+					Date			
+				</th>
+			</tr>
+			<?php while(result->hasRows()) { ?>
+			<tr>
+				
+			</tr>
+			<?php } ?>
+		</table>
+	</html>
+	
+	@Model IEnumerable
+	
+	<html>
+		<table>
+			<tr>
+				<th>
+					Date			
+				</th>
+			</tr>
+			@While(result->hasRows())
+			<tr>
+				model.
+			</tr>
+			@EndWhile
+		</table>
+	</html>
+	
+	@csrf
+	
+	
